@@ -1,0 +1,5 @@
+{
+  "name": "AI Article Conclusion Generator",
+  "description": "An application that uses AI to generate compelling conclusions for articles based on their title, introduction, and body content.",
+  "requestFramePermissions": []
+}
